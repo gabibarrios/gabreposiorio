@@ -1,0 +1,36 @@
+h1
+{    box-shadow: 10px 23px 15px #432;
+    color: rgba( 240, 111, 100, .2);
+    font-size: 79px;
+}
+.miclase
+{color:#456;
+    }
+img
+{width: 200px;
+height: 200px;
+border-radius: 14px;}
+audio
+{text-align: right;}
+div
+{ 
+padding: 20px;
+margin: 20px;
+border: 25px double #555;
+text-align: left;
+border-radius: 10px;
+column-count: 2;
+column-gap: 72px;
+column-rule: 5px;
+}
+.car
+{
+color: #c4c5;}
+h3
+{font-family: 'Roboto', sans-serif;}
+body
+{ background-color: #999;
+    background: linear-gradient(to #867 #932);
+background-repeat: space;
+background-attachment: scroll;
+background-size: cover;}
